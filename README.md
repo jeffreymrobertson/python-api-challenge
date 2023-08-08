@@ -1,7 +1,13 @@
 # python-api-challenge
 
 
+# Contributors
+Jeffrey Robertson
 
+
+# Use
+
+WeatherPy includes the data analysis for the weather and vacationpy filters the loactions and presents the locations that would be preferred to visit and the nearest hotel.
 
 
 
